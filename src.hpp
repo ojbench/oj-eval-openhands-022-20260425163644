@@ -19,4 +19,5 @@ int guess(int n, int Taskid) {
 }
 
 // The query function is provided by the grader
+// It returns max(A_x, A_y, A_z) + min(A_x, A_y, A_z)
 // int query(int x, int y, int z);
